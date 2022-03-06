@@ -1,4 +1,4 @@
-### 🔰 Oi, Meu nome é Otávio.
+### 🔰 Oi, meu nome é Otávio.
 -----
 
 ⨀ Atualmente cursando Engenharia Mecãnica.
