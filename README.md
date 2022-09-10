@@ -3,7 +3,6 @@
 
 ⨀ Atualmente cursando Engenharia Mecãnica.
 
-⨀ Estudando React-native.
 
 <div align="center">
   <a href="https://github.com/otgust">
